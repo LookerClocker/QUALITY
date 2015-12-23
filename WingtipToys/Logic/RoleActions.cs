@@ -10,6 +10,9 @@ namespace WingtipToys.Logic
 {
   internal class RoleActions
   {
+
+
+
     internal void AddUserAndRole()
     {
       // Access the application context and create result variables.
